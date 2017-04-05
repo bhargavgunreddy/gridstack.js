@@ -5,7 +5,7 @@
   "main": "dist/gridstack.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/troolee/gridstack.js.git"
+    "url": "git+https://github.com/lincolnpahwa/gridstack.js.git"
   },
   "scripts": {
     "build": "grunt",
@@ -18,7 +18,7 @@
     "layout",
     "jquery"
   ],
-  "author": "Pavel Reznikov <pashka.reznikov@gmail.com>",
+  "author": "Pavel Reznikov <pashka.reznikov@gmail.com>, Lincoln Pahwa",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/troolee/gridstack.js/issues"
